@@ -1,6 +1,6 @@
 # Python Programming Tasks - OOP Course
 
-This repository contains a collection of Python programming tasks developed as part of the **Programming-1 (OOP)** course at the **Faculty of Computers and Artificial Intelligence, Menoufia University**.
+This repository contains a collection of Python programming tasks developed as part of the **Programming-1 (OOP)** course at the **Faculty of Computers and Artificial Intelligence, Menoufia National University**.
 
 ## 👤 Project Information
 * **Prepared By:** Mohamed Adel Mohamed Morad
